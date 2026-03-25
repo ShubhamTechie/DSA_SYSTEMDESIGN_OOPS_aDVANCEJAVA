@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialRecursivly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FiboByRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberGussinggame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeByRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasswordChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +42,53 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Book.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.FactorialRecursivly.executor": "Run",
+    "Application.FiboByRecursion.executor": "Run",
+    "Application.ForEachLoop.executor": "Run",
+    "Application.ForLoops.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NumberGussinggame.executor": "Run",
+    "Application.PalindromeByRecursion.executor": "Run",
+    "Application.PasswordChecker.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Book">
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Book" />
+  <component name="RunManager" selected="Application.PalindromeByRecursion">
+    <configuration name="FactorialRecursivly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorialRecursivly" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="FiboByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FiboByRecursion" />
+      <module name="AdvanceTopics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberGussinggame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberGussinggame" />
+      <module name="AdvanceTopics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeByRecursion" />
+      <module name="AdvanceTopics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordChecker" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,8 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Book" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PalindromeByRecursion" />
+        <item itemvalue="Application.FiboByRecursion" />
+        <item itemvalue="Application.NumberGussinggame" />
+        <item itemvalue="Application.PasswordChecker" />
+        <item itemvalue="Application.FactorialRecursivly" />
       </list>
     </recent_temporary>
   </component>
@@ -73,5 +114,16 @@
       <updated>1774438943775</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DoWhile.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
