@@ -5,11 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GusseningNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Polymorphism.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/ArrayToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/CarFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactorialRecursivly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/FactorialRecursivly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FiboByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/FiboByRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/ForEachLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/ForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GusseningNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/GusseningNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberGussinggame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/NumberGussinggame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/PalindromeByRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PasswordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/PasswordChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/TernaryOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +41,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="3BR5GC4Gmq30LQO0g5xCKwNTvJQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,35 +74,35 @@
 }]]></component>
   <component name="RunManager" selected="Application.ArrayToString">
     <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayToString" />
+      <option name="MAIN_CLASS_NAME" value="BasicTopics.ArrayToString" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FiboByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FiboByRecursion" />
+      <option name="MAIN_CLASS_NAME" value="BasicTopics.FiboByRecursion" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="GusseningGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GusseningGame" />
+      <option name="MAIN_CLASS_NAME" value="BasicTopics.GusseningGame" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PalindromeByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeByRecursion" />
+      <option name="MAIN_CLASS_NAME" value="BasicTopics.PalindromeByRecursion" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Student" />
+      <option name="MAIN_CLASS_NAME" value="BasicTopics.Student" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,7 +133,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DoWhile.java</url>
+          <url>file://$PROJECT_DIR$/src/BasicTopics/DoWhile.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

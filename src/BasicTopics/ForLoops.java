@@ -1,4 +1,6 @@
-    public class ForLoops {
+package BasicTopics;
+
+public class ForLoops {
 
 
         public static void main(String[] args) {

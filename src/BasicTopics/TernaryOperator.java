@@ -1,3 +1,5 @@
+package BasicTopics;
+
 import java.util.Scanner;
 
 public class TernaryOperator {

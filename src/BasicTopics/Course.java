@@ -1,3 +1,5 @@
+package BasicTopics;
+
 public class Course {
 
     static int maxCapacity;
