@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorialRecursivly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FiboByRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberGussinggame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeByRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PasswordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GusseningNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarFinal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3BR5GC4Gmq30LQO0g5xCKwNTvJQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,26 +36,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayToString.executor": "Run",
     "Application.Book.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.FactorialRecursivly.executor": "Run",
     "Application.FiboByRecursion.executor": "Run",
     "Application.ForEachLoop.executor": "Run",
     "Application.ForLoops.executor": "Run",
+    "Application.GusseningGame.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NumberGussinggame.executor": "Run",
     "Application.PalindromeByRecursion.executor": "Run",
     "Application.PasswordChecker.executor": "Run",
+    "Application.Student.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PalindromeByRecursion">
-    <configuration name="FactorialRecursivly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorialRecursivly" />
+  <component name="RunManager" selected="Application.ArrayToString">
+    <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayToString" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGussinggame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberGussinggame" />
+    <configuration name="GusseningGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GusseningGame" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PasswordChecker" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student" />
       <module name="AdvanceTopics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayToString" />
+        <item itemvalue="Application.GusseningGame" />
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.PalindromeByRecursion" />
         <item itemvalue="Application.FiboByRecursion" />
-        <item itemvalue="Application.NumberGussinggame" />
-        <item itemvalue="Application.PasswordChecker" />
-        <item itemvalue="Application.FactorialRecursivly" />
       </list>
     </recent_temporary>
   </component>
