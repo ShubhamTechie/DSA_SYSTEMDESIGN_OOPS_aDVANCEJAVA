@@ -5,26 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oops/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/Bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/Employee/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/Employee/TestEmployeeDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/geometry/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/geometry/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/utils/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/ArrayToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/CarFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactorialRecursivly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/FactorialRecursivly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FiboByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/FiboByRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/ForLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GusseningNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/GusseningNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberGussinggame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/NumberGussinggame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PalindromeByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/PalindromeByRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PasswordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/PasswordChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicTopics/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Abstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/Polymorphism.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3BR5GC4Gmq30LQO0g5xCKwNTvJQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,7 +43,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayToString.executor": "Run",
+    "Application.BankAccount.executor": "Run",
     "Application.Book.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.FactorialRecursivly.executor": "Run",
     "Application.FiboByRecursion.executor": "Run",
@@ -72,7 +65,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayToString">
+  <component name="RunManager" selected="Application.TestEmployeeDetails">
     <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicTopics.ArrayToString" />
       <module name="AdvanceTopics" />
@@ -80,9 +73,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FiboByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicTopics.FiboByRecursion" />
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Encapsulation.Bank.BankAccount" />
       <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Encapsulation.Bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulation.geometry.Calculator" />
+      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulation.geometry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,27 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicTopics.PalindromeByRecursion" />
+    <configuration name="TestEmployeeDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Encapsulation.Employee.TestEmployeeDetails" />
       <module name="AdvanceTopics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicTopics.Student" />
-      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Encapsulation.Employee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestEmployeeDetails" />
+        <item itemvalue="Application.BankAccount" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.ArrayToString" />
         <item itemvalue="Application.GusseningGame" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.PalindromeByRecursion" />
-        <item itemvalue="Application.FiboByRecursion" />
       </list>
     </recent_temporary>
   </component>
