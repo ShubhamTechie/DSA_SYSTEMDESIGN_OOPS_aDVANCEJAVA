@@ -1,7 +1,7 @@
-package com.Encapsulation.utils;
+package Oops.Encapsulation.utils;
 
-import com.Encapsulation.geometry.Circle;
-import com.Encapsulation.geometry.Rectangle;
+import Oops.Encapsulation.geometry.Circle;
+import Oops.Encapsulation.geometry.Rectangle;
 
 public class Calculator {
 

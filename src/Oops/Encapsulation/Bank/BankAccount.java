@@ -1,4 +1,4 @@
-package com.Encapsulation.Bank;
+package Oops.Encapsulation.Bank;
 
 public class BankAccount {
 

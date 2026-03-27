@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/Bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/Employee/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/Employee/TestEmployeeDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/geometry/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/geometry/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/utils/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Abstraction/Abstractcls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/MotorCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/TestInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/TwoWheels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Abstraction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Encapsulation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Polymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Encapsulation/Bank/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/Bank/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Encapsulation/Employee/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/Employee/Employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Encapsulation/Employee/TestEmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/Employee/TestEmployeeDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Encapsulation/geometry/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/geometry/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Encapsulation/geometry/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/geometry/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Encapsulation/utils/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/utils/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,8 @@
     "Application.PasswordChecker.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
+    "Application.TestEmployeeDetails.executor": "Run",
+    "Application.TestInheritance.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -65,7 +68,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestEmployeeDetails">
+  <component name="RunManager" selected="Application.TestInheritance">
     <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicTopics.ArrayToString" />
       <module name="AdvanceTopics" />
@@ -99,13 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GusseningGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicTopics.GusseningGame" />
-      <module name="AdvanceTopics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestEmployeeDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Encapsulation.Employee.TestEmployeeDetails" />
       <module name="AdvanceTopics" />
@@ -119,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Inheritance.TestInheritance" />
+      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestInheritance" />
         <item itemvalue="Application.TestEmployeeDetails" />
         <item itemvalue="Application.BankAccount" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.ArrayToString" />
-        <item itemvalue="Application.GusseningGame" />
       </list>
     </recent_temporary>
   </component>
