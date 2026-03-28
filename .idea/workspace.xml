@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oops/Polymorphism/overloading/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Polymorphism/overrinding/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Polymorphism/overrinding/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/Polymorphism/overrinding/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicTopics/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/VarRGS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/CollectionsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/QueueInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/SetInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/TestingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHand/ExcepHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHand/FileHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHand/FileNotFound.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,10 +47,14 @@
     "Application.BankAccount.executor": "Run",
     "Application.Book.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.CollectionsClass.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.Dog.executor": "Run",
+    "Application.ExcepHand.executor": "Run",
     "Application.FactorialRecursivly.executor": "Run",
     "Application.FiboByRecursion.executor": "Run",
+    "Application.FileHandling.executor": "Run",
+    "Application.FileNotFound.executor": "Run",
     "Application.ForEachLoop.executor": "Run",
     "Application.ForLoops.executor": "Run",
     "Application.GusseningGame.executor": "Run",
@@ -52,6 +62,8 @@
     "Application.NumberGussinggame.executor": "Run",
     "Application.PalindromeByRecursion.executor": "Run",
     "Application.PasswordChecker.executor": "Run",
+    "Application.QueueInt.executor": "Run",
+    "Application.SetInter.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "Application.Test.executor": "Run",
@@ -59,6 +71,9 @@
     "Application.TestFly.executor": "Run",
     "Application.TestInheritance.executor": "Run",
     "Application.TestShape.executor": "Run",
+    "Application.TestingList.executor": "Run",
+    "Application.VarArgs.executor": "Run",
+    "Application.VarRGS.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -66,13 +81,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Polymorphism.overloading.Calculator" />
+  <component name="RunManager" selected="Application.VarRGS">
+    <configuration name="CollectionsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.CollectionsClass" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Polymorphism.overloading.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Polymorphism.overloading.Dog" />
+    <configuration name="QueueInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.QueueInt" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Polymorphism.overloading.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Polymorphism.overrinding.Test" />
+    <configuration name="SetInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.SetInter" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Polymorphism.overrinding.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Abstraction.Fly.TestFly" />
+    <configuration name="TestingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.TestingList" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Abstraction.Fly.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oops.Abstraction.ShapeArea.TestShape" />
+    <configuration name="VarRGS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.VarRGS" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oops.Abstraction.ShapeArea.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.TestFly" />
-        <item itemvalue="Application.TestShape" />
+        <item itemvalue="Application.VarRGS" />
+        <item itemvalue="Application.CollectionsClass" />
+        <item itemvalue="Application.SetInter" />
+        <item itemvalue="Application.QueueInt" />
+        <item itemvalue="Application.TestingList" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +184,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/VarRGS.java</url>
+          <line>17</line>
+          <properties class="CollectionAndGenerics.Challenges.VarRGS" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
