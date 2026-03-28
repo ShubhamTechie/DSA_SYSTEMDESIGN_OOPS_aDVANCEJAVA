@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BasicTopics/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/VarRGS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/CollectionsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/QueueInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/SetInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/TestingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHand/ExcepHand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHand/FileHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHand/FileNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/Frequwncy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/PriorityQueie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/SortListOfStrring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/Swaping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/VarRGS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/VarRGS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +52,18 @@
     "Application.FileNotFound.executor": "Run",
     "Application.ForEachLoop.executor": "Run",
     "Application.ForLoops.executor": "Run",
+    "Application.Frequwncy.executor": "Run",
     "Application.GusseningGame.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NumberGussinggame.executor": "Run",
     "Application.PalindromeByRecursion.executor": "Run",
     "Application.PasswordChecker.executor": "Run",
+    "Application.PriorityQueie.executor": "Run",
     "Application.QueueInt.executor": "Run",
     "Application.SetInter.executor": "Run",
+    "Application.SortListOfStrring.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.Swaping.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestEmployeeDetails.executor": "Run",
@@ -81,13 +80,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VarRGS">
-    <configuration name="CollectionsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.CollectionsClass" />
+  <component name="RunManager" selected="Application.PriorityQueie">
+    <configuration name="Frequwncy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.Frequwncy" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAndGenerics.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.QueueInt" />
+    <configuration name="PriorityQueie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.PriorityQueie" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAndGenerics.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetInter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.SetInter" />
+    <configuration name="SortListOfStrring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.SortListOfStrring" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAndGenerics.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.TestingList" />
+    <configuration name="Swaping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.Swaping" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAndGenerics.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PriorityQueie" />
+        <item itemvalue="Application.Swaping" />
+        <item itemvalue="Application.Frequwncy" />
+        <item itemvalue="Application.SortListOfStrring" />
         <item itemvalue="Application.VarRGS" />
-        <item itemvalue="Application.CollectionsClass" />
-        <item itemvalue="Application.SetInter" />
-        <item itemvalue="Application.QueueInt" />
-        <item itemvalue="Application.TestingList" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +174,11 @@
           <url>file://$PROJECT_DIR$/src/BasicTopics/DoWhile.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/SortListOfStrring.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Oops/Abstraction/Fly/TestFly.java</url>

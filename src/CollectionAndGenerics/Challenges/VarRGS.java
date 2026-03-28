@@ -12,7 +12,7 @@ public class VarRGS {
         for (String value : values) {
             System.out.println(value);
         }
-        System.out.println();
+        System.out.println() ;
     }
 
     public static void main(String[] args) {
