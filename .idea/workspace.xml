@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/Frequwncy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/PriorityQueie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/SortListOfStrring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/Swaping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/TestingEnumd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/TrafficLight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/VarRGS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Challenges/VarRGS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -69,7 +69,9 @@
     "Application.TestEmployeeDetails.executor": "Run",
     "Application.TestFly.executor": "Run",
     "Application.TestInheritance.executor": "Run",
+    "Application.TestMap.executor": "Run",
     "Application.TestShape.executor": "Run",
+    "Application.TestingEnumd.executor": "Run",
     "Application.TestingList.executor": "Run",
     "Application.VarArgs.executor": "Run",
     "Application.VarRGS.executor": "Run",
@@ -80,7 +82,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PriorityQueie">
+  <component name="RunManager" selected="Application.TestingEnumd">
     <configuration name="Frequwncy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.Frequwncy" />
       <module name="AdvanceTopics" />
@@ -107,19 +109,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortListOfStrring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.SortListOfStrring" />
-      <module name="AdvanceTopics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Swaping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.Swaping" />
       <module name="AdvanceTopics" />
@@ -133,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarRGS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.VarRGS" />
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.TestMap" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
@@ -146,13 +135,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestingEnumd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enums.TestingEnumd" />
+      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestingEnumd" />
+        <item itemvalue="Application.TestMap" />
         <item itemvalue="Application.PriorityQueie" />
         <item itemvalue="Application.Swaping" />
         <item itemvalue="Application.Frequwncy" />
-        <item itemvalue="Application.SortListOfStrring" />
-        <item itemvalue="Application.VarRGS" />
       </list>
     </recent_temporary>
   </component>
