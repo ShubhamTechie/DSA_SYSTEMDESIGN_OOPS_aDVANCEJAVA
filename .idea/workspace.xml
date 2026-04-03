@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/NeedOfMultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/PrintTASK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/SecondTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/TestingRunnables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThirdTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +58,8 @@
     "Application.Frequwncy.executor": "Run",
     "Application.GusseningGame.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MapTest.executor": "Run",
+    "Application.NeedOfMultiThreading.executor": "Run",
     "Application.NumberGussinggame.executor": "Run",
     "Application.PalindromeByRecursion.executor": "Run",
     "Application.PasswordChecker.executor": "Run",
@@ -69,6 +78,7 @@
     "Application.TestShape.executor": "Run",
     "Application.TestingEnumd.executor": "Run",
     "Application.TestingList.executor": "Run",
+    "Application.TestingRunnables.executor": "Run",
     "Application.VarArgs.executor": "Run",
     "Application.VarRGS.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,13 +89,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestingEnumd">
-    <configuration name="Frequwncy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.Frequwncy" />
+  <component name="RunManager" selected="Application.TestingRunnables">
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.MapTest" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
+          <option name="PATTERN" value="CollectionAndGenerics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,25 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.PriorityQueie" />
+    <configuration name="NeedOfMultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.NeedOfMultiThreading" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Swaping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.Challenges.Swaping" />
-      <module name="AdvanceTopics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionAndGenerics.Challenges.*" />
+          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +142,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestingRunnables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.TestingRunnables" />
+      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestingRunnables" />
+        <item itemvalue="Application.NeedOfMultiThreading" />
+        <item itemvalue="Application.MapTest" />
         <item itemvalue="Application.TestingEnumd" />
         <item itemvalue="Application.TestMap" />
-        <item itemvalue="Application.PriorityQueie" />
-        <item itemvalue="Application.Swaping" />
-        <item itemvalue="Application.Frequwncy" />
       </list>
     </recent_temporary>
   </component>
