@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/FirstTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/NeedOfMultiThreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/PrintTASK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/SecondTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/TestingRunnables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/ThirdTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading/TestingRunnables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/TestingRunnables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

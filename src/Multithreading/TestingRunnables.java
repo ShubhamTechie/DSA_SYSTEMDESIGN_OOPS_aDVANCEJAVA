@@ -3,7 +3,7 @@ package Multithreading;
 public class TestingRunnables {
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
 
 
         PrintTASK p1 = new PrintTASK('*');
@@ -20,6 +20,7 @@ public class TestingRunnables {
         t3.setPriority(Thread.MIN_PRIORITY);
 
         t1.start();
+        t1.join();
         t2.start();
         t3.start();
     }
