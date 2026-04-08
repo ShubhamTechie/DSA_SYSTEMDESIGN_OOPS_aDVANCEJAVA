@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multithreading/TestingRunnables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading/TestingRunnables.java" afterDir="false" />
-    </list>
+    <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,56 +30,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayToString.executor": "Run",
-    "Application.BankAccount.executor": "Run",
-    "Application.Book.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CollectionsClass.executor": "Run",
-    "Application.DoWhile.executor": "Run",
-    "Application.Dog.executor": "Run",
-    "Application.ExcepHand.executor": "Run",
-    "Application.FactorialRecursivly.executor": "Run",
-    "Application.FiboByRecursion.executor": "Run",
-    "Application.FileHandling.executor": "Run",
-    "Application.FileNotFound.executor": "Run",
-    "Application.ForEachLoop.executor": "Run",
-    "Application.ForLoops.executor": "Run",
-    "Application.Frequwncy.executor": "Run",
-    "Application.GusseningGame.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MapTest.executor": "Run",
-    "Application.NeedOfMultiThreading.executor": "Run",
-    "Application.NumberGussinggame.executor": "Run",
-    "Application.PalindromeByRecursion.executor": "Run",
-    "Application.PasswordChecker.executor": "Run",
-    "Application.PriorityQueie.executor": "Run",
-    "Application.QueueInt.executor": "Run",
-    "Application.SetInter.executor": "Run",
-    "Application.SortListOfStrring.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.Swaping.executor": "Run",
-    "Application.TernaryOperator.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TestEmployeeDetails.executor": "Run",
-    "Application.TestFly.executor": "Run",
-    "Application.TestInheritance.executor": "Run",
-    "Application.TestMap.executor": "Run",
-    "Application.TestShape.executor": "Run",
-    "Application.TestingEnumd.executor": "Run",
-    "Application.TestingList.executor": "Run",
-    "Application.TestingRunnables.executor": "Run",
-    "Application.VarArgs.executor": "Run",
-    "Application.VarRGS.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayToString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Book.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExcepHand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialRecursivly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FiboByRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEachLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Frequwncy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GusseningGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NeedOfMultiThreading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberGussinggame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeByRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PasswordChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriorityQueie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetInter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortListOfStrring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swaping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestEmployeeDetails.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestFly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestShape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestingEnumd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestingList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestingRunnables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarArgs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarRGS.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.TestingRunnables">
     <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionAndGenerics.MapTest" />
