@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExecutorService/Fact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutorService/MultithreadEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutorService/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutorService/SingleThreadServie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutorService/SleepTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutorService/TestAFac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalPrograaming/TestingFillterReduce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExecutorService/ExecutorSer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExecutorService/ExecutorSer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,78 +33,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayToString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Book.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CollectionsClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExcepHand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialRecursivly.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FiboByRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileHandling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileNotFound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForEachLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Frequwncy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GusseningGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultithreadEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NeedOfMultiThreading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberGussinggame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeByRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PasswordChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PriorityQueie.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueInt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SetInter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleThreadServie.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortListOfStrring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swaping.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestEmployeeDetails.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestFly.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestShape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestingEnumd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestingList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestingRunnables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarArgs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarRGS.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayToString.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CollectionsClass.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.ExcepHand.executor": "Run",
+    "Application.FactorialRecursivly.executor": "Run",
+    "Application.FiboByRecursion.executor": "Run",
+    "Application.FileHandling.executor": "Run",
+    "Application.FileNotFound.executor": "Run",
+    "Application.ForEachLoop.executor": "Run",
+    "Application.ForLoops.executor": "Run",
+    "Application.Frequwncy.executor": "Run",
+    "Application.GusseningGame.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MapTest.executor": "Run",
+    "Application.MultithreadEx.executor": "Run",
+    "Application.NeedOfMultiThreading.executor": "Run",
+    "Application.NumberGussinggame.executor": "Run",
+    "Application.PalindromeByRecursion.executor": "Run",
+    "Application.PasswordChecker.executor": "Run",
+    "Application.PriorityQueie.executor": "Run",
+    "Application.QueueInt.executor": "Run",
+    "Application.SetInter.executor": "Run",
+    "Application.SingleThreadServie.executor": "Run",
+    "Application.SortListOfStrring.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.Swaping.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestAFac.executor": "Run",
+    "Application.TestEmployeeDetails.executor": "Run",
+    "Application.TestFly.executor": "Run",
+    "Application.TestInheritance.executor": "Run",
+    "Application.TestMap.executor": "Run",
+    "Application.TestShape.executor": "Run",
+    "Application.TestingEnumd.executor": "Run",
+    "Application.TestingFillterReduce.executor": "Run",
+    "Application.TestingList.executor": "Run",
+    "Application.TestingRunnables.executor": "Run",
+    "Application.VarArgs.executor": "Run",
+    "Application.VarRGS.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestAFac">
+}]]></component>
+  <component name="RunManager" selected="Application.TestingFillterReduce">
     <configuration name="MultithreadEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExecutorService.MultithreadEx" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExecutorService.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NeedOfMultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.NeedOfMultiThreading" />
-      <module name="AdvanceTopics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,6 +127,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestingFillterReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalPrograaming.TestingFillterReduce" />
+      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FunctionalPrograaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestingRunnables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Multithreading.TestingRunnables" />
       <module name="AdvanceTopics" />
@@ -159,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestingFillterReduce" />
         <item itemvalue="Application.TestAFac" />
         <item itemvalue="Application.MultithreadEx" />
         <item itemvalue="Application.SingleThreadServie" />
         <item itemvalue="Application.TestingRunnables" />
-        <item itemvalue="Application.NeedOfMultiThreading" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +173,17 @@
       <updated>1774438943775</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
