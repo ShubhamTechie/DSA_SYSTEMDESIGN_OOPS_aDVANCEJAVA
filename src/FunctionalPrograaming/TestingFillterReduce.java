@@ -16,12 +16,17 @@ public class TestingFillterReduce {
 //                .forEach(fruit -> System.out.println(fruit));
 
         List<Integer> numbers = List.of(1, 2, 3, 4, 5, 6, 7, 8);
-       int newSum =  numbers.stream().reduce(0, new BinaryOperator<Integer>() {
-            @Override
-            public Integer apply(Integer integer, Integer integer2) {
-                return integer+integer2;
-            }
-        });
-        System.out.println(newSum);
+//       int newSum =  numbers.stream().reduce(0, new BinaryOperator<Integer>() {
+//            @Override
+//            public Integer apply(Integer integer, Integer integer2) {
+//                return integer+integer2;
+//            }
+//        });
+//        System.out.println(newSum);
+
+        int newSum2 = numbers.stream()
+                .reduce(0, (a, b) -> a + b);
+
+        System.out.println(newSum2);
     }
 }

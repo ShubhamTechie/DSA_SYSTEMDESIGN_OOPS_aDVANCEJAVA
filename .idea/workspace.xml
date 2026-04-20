@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfce850e-69ca-4657-948b-7d97e84ce9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FunctionalPrograaming/TestingFillterReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionaLInterface/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionaLInterface/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionaLInterface/Truth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionaLInterface/optionalString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalPrograaming/Challenge2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalPrograaming/Challenges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalPrograaming/MethodRefrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalPrograaming/Odd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FunctionalPrograaming/TestingFillterReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionalPrograaming/TestingFillterReduce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,10 +47,13 @@
     "Application.BankAccount.executor": "Run",
     "Application.Book.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.Challenge2.executor": "Run",
+    "Application.Challenges.executor": "Run",
     "Application.CollectionsClass.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.Dog.executor": "Run",
     "Application.ExcepHand.executor": "Run",
+    "Application.Fact.executor": "Run",
     "Application.FactorialRecursivly.executor": "Run",
     "Application.FiboByRecursion.executor": "Run",
     "Application.FileHandling.executor": "Run",
@@ -56,6 +67,7 @@
     "Application.MultithreadEx.executor": "Run",
     "Application.NeedOfMultiThreading.executor": "Run",
     "Application.NumberGussinggame.executor": "Run",
+    "Application.Odd.executor": "Run",
     "Application.PalindromeByRecursion.executor": "Run",
     "Application.PasswordChecker.executor": "Run",
     "Application.PriorityQueie.executor": "Run",
@@ -79,6 +91,7 @@
     "Application.TestingRunnables.executor": "Run",
     "Application.VarArgs.executor": "Run",
     "Application.VarRGS.executor": "Run",
+    "Application.optionalString.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -87,48 +100,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestingFillterReduce">
-    <configuration name="MultithreadEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorService.MultithreadEx" />
-      <module name="AdvanceTopics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExecutorService.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleThreadServie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorService.SingleThreadServie" />
-      <module name="AdvanceTopics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExecutorService.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAFac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExecutorService.TestAFac" />
-      <module name="AdvanceTopics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExecutorService.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestingFillterReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalPrograaming.TestingFillterReduce" />
+  <component name="RunManager" selected="Application.optionalString">
+    <configuration name="Challenge2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalPrograaming.Challenge2" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
@@ -140,12 +114,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingRunnables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.TestingRunnables" />
+    <configuration name="Fact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionaLInterface.Fact" />
       <module name="AdvanceTopics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="FunctionaLInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalPrograaming.Odd" />
+      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FunctionalPrograaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionaLInterface.Test" />
+      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FunctionaLInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="optionalString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionaLInterface.optionalString" />
+      <module name="AdvanceTopics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FunctionaLInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestingFillterReduce" />
-        <item itemvalue="Application.TestAFac" />
-        <item itemvalue="Application.MultithreadEx" />
-        <item itemvalue="Application.SingleThreadServie" />
-        <item itemvalue="Application.TestingRunnables" />
+        <item itemvalue="Application.optionalString" />
+        <item itemvalue="Application.Fact" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Odd" />
+        <item itemvalue="Application.Challenge2" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +211,11 @@
           <line>22</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FunctionaLInterface/optionalString.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Oops/Abstraction/Fly/TestFly.java</url>
           <line>5</line>
@@ -215,6 +233,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FunctionaLInterface/optionalString.java</url>
+          <line>8</line>
+          <properties class="FunctionaLInterface.optionalString" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
