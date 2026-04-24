@@ -14,8 +14,8 @@ public class optionalString {
     }
 
 
-    public static Optional<String> toOptional(String str){
-        if (str == null || str.isEmpty()){
+    public static Optional<String> toOptional(String str) {
+        if (str == null || str.isEmpty()) {
             return Optional.empty();
         }
         return Optional.of(str.toUpperCase());
